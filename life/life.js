@@ -242,5 +242,5 @@ li.classList.add("active");
 new Vue({
   el: "#app",
   components: { MyComponent },
-  template: "<ife-item></ife-item>",
+  template: "<life-item></life-item>",
 });
