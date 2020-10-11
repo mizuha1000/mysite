@@ -1,4 +1,4 @@
-import MyComponent from "./my-component.vue";
+import MyComponent from "my-component.vue";
 
 const li = document.getElementById("life");
 li.classList.add("active");
